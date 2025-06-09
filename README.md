@@ -1,1 +1,5 @@
-# Lista-05
+# Lista 05 - Introdução à Ciência de Dados
+
+- Nome: Antonio Elimar Ximenes Oliveira
+- Matrícula: 584261
+- [Clique aqui para ver o vídeo do Youtube](https://youtu.be/FJyWfBd_Tg4)
